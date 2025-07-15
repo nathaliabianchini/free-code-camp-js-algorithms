@@ -1,3 +1,7 @@
+/* in this project, you will practice javascript by creating a simple gradebook system.
+   the gradebook will store students' names and their scores, allowing you to add new 
+   scores, calculate averages, and update the records dynamically. */
+   
 function getAverage(scores) {
     let sum = 0;
     for (let i = 0; i <= scores.length - 1; i++) {

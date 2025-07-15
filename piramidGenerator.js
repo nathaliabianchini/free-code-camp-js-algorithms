@@ -1,6 +1,6 @@
-/* in this project, you will learn the basics of Javascript and apply those concepts to building a pyramid generator.
+/* in this project, you will learn the basics of javascript and apply those concepts to building a pyramid generator.
    a pyramid generator is a program where you can set the type of character, the count for the pyramid, and the 
-   direction of the pyramid. The program will then generate a pyramid based on those inputs. */
+   direction of the pyramid. the program will then generate a pyramid based on those inputs. */
 
 const character = "#";
 const count = 8;

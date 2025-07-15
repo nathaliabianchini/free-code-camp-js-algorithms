@@ -1,3 +1,7 @@
+/* this project teaches you how to manipulate the background color of a webpage using javascript.
+   you will create controls that allow users to change the background color dynamically,
+   learning how to handle events, update styles, and interact with the DOM. */
+
 const darkColorsArr = [
   "#2C3E50",
   "#34495E",

@@ -1,3 +1,7 @@
+/* in this project, you will create a calorie counter application using javascript. the 
+   app allows users to add food items with calorie values, keep track of total calories 
+   consumed, and update or delete entries as needed. */
+
 const calorieCounter = document.getElementById('calorie-counter');
 const budgetNumberInput = document.getElementById('budget');
 const entryDropdown = document.getElementById('entry-dropdown');

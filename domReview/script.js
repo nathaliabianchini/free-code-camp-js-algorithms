@@ -1,3 +1,7 @@
+/* this project focuses on practicing DOM manipulation with javascript. you will learn 
+   how to select, create, modify, and remove HTML elements dynamically. the exercise 
+   covers event handling, updating element content, and changing styles programmatically, */
+
 function getRandomComputerResult() {
   const options = ["Rock", "Paper", "Scissors"];
   const randomIndex = Math.floor(Math.random() * options.length);

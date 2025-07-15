@@ -1,3 +1,7 @@
+/* in this project, you will build a simple RPG character stats system using javascript.
+  you will define character attributes such as health, strength, and level, and create 
+  functions to update and manage these stats based on game events. */
+
 let xp = 0;
 let health = 100;
 let gold = 50;
